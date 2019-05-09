@@ -1,0 +1,17 @@
+* {
+  font-size: inherit;
+}
+html {
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  line-height: 1.4;
+}
+body {
+  //margin: 0;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 1rem;
+  max-width: 44rem;
+}
+
