@@ -9,7 +9,7 @@ body {
   //margin: 0;
 }
 a {
-color: inherit;
+  color: inherit;
 }
 .container {
   margin: 0 auto;
@@ -17,6 +17,6 @@ color: inherit;
   max-width: 44rem;
 }
 .red {
-color: red;
+  color: #FF4136;
 }
 
