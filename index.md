@@ -3,11 +3,14 @@ layout: def2
 title: home
 ---
 
-<p><b>Frontend developer</b> with 7+ years of commercial experience.
-<p><b>Blogger</b> - writing about technology at <a href="https://overflow.space">overflow.space</a> from a systems humanist, critically optimistic perspective.
-<p>I'm into beautiful design, clean code, JavaScript, the cutting-edge and the history of technology, science fiction, and amateur game development. Based in London, UK.
+**Frontend developer** with 7+ years of commercial experience.
 
-<p><b>jasonsackey@yahoo.co.uk</b>
+**Blogger** - writing about technology at <a href="https://overflow.space">overflow.space</a> from a systems humanist, critically optimistic perspective.
+
+I'm into beautiful design, clean code, JavaScript, the cutting-edge and the history of technology, science fiction, and amateur game development. Based in London, UK.
+
+**jasonsackey@yahoo.co.uk**
+
 <ul class="links">
        <li><a href="https://twitter.com/jasonksackey">
          <span class="red">twitter.com</span>/jasonksackey
