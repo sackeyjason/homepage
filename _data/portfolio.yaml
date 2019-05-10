@@ -1,2 +1,12 @@
-work: [this, that, t'other]
-
+work:
+  - client: Ministry of Defence
+    title: Defence and Security Accelerator
+    url: https://www.gov.uk/government/organisations/defence-and-security-accelerator
+    desc: "
+https://www.readingroom.com/client-stories/mod-defence-and-security-accelerator/
+"
+    pics:
+      - mod.png
+  - client: Church of England
+  - client: Foundation for FutureLondon
+  - client: VisitEngland
