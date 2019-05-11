@@ -2,9 +2,16 @@
 layout: default
 title: home
 ---
-
-<article>
+<h1>Portfolio</h1>
+<article class="portfolio">
 {% for x in site.data.portfolio.work %}
-{{ x.client }}
+<details>
+  <summary>
+    {{ x.client }}
+  </summary>
+  <div>
+  {{ x.client }}
+  </div>
+</details>
 {% endfor %}
 </article>
