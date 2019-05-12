@@ -5,13 +5,11 @@ title: home
 <h1>Portfolio</h1>
 <article class="portfolio">
 {% for x in site.data.portfolio.work %}
-<details>
-  <summary>
-    {{ x.client }}
-  </summary>
+<div>
+    <h2>{{ x.client }}</h2>
   <div>
-  {{ x.client }}
+  <img src="./img/{{ x.pics.1 }}"/ alt="">
   </div>
-</details>
+</div>
 {% endfor %}
 </article>

@@ -6,7 +6,25 @@ work:
 https://www.readingroom.com/client-stories/mod-defence-and-security-accelerator/
 "
     pics:
-      - 12.png
+      - 14.png
   - client: Church of England
+    pics: [ 28.png ]
+  - client: National Gallery of Ireland
+    pics: [08.png]
+  - client: RPC
+    pics: [13.png]
+  - client: "People's Health Trust"
+    pics: [30.png]
   - client: Foundation for FutureLondon
+    pics: [25.png]
   - client: VisitEngland
+    pics: [32.png]
+  - client: Norfolk and Suffolk Police
+    pics: [01.png]
+  - client: Police and Crime Commissioner for Essex
+    title: Essex Victims Gateway
+    pics: [18.png]
+  - client: Science Museum Group
+    pics: [21.png]
+  - client: City and Islington College
+    pics: [22.png]
