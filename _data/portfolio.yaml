@@ -1,12 +1,4 @@
 work:
-  - client: Ministry of Defence
-    title: Defence and Security Accelerator
-    url: https://www.gov.uk/government/organisations/defence-and-security-accelerator
-    desc: "
-https://www.readingroom.com/client-stories/mod-defence-and-security-accelerator/
-"
-    pics:
-      - 14.png
   - client: Church of England
     pics: [ 28.png ]
   - client: National Gallery of Ireland
@@ -17,6 +9,14 @@ https://www.readingroom.com/client-stories/mod-defence-and-security-accelerator/
     pics: [30.png]
   - client: Foundation for FutureLondon
     pics: [25.png]
+  - client: Ministry of Defence
+    title: Defence and Security Accelerator
+    url: https://www.gov.uk/government/organisations/defence-and-security-accelerator
+    desc: "
+https://www.readingroom.com/client-stories/mod-defence-and-security-accelerator/
+"
+    pics:
+      - 12.png
   - client: VisitEngland
     pics: [32.png]
   - client: Norfolk and Suffolk Police
