@@ -17,6 +17,7 @@ title: home
     <div>{{ x.desc | markdownify }}</div>
     {% for pic in x.pics %}
     <img src="./img/{{ pic }}" alt="" />
+    {% endfor %}
   </template>
 </div>
 {% endfor %}
