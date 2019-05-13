@@ -24,3 +24,7 @@ a {
   color: #FF4136;
 }
 
+.portfolio {
+display: grid;
+}
+
