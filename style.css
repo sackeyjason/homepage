@@ -58,7 +58,14 @@ font-size: .8em;
 .work-modal {
 
 }
+.work-modal-content {
+  margin-top: 1rem;
+  columns: 300px;
+}
 
+.work-modal-content img {
+  width: 100%;
+}
 .work-modal h2 {
   margin: 0;
   font-size: 2em;

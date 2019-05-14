@@ -14,6 +14,8 @@ document.querySelectorAll('.work').forEach(element => {
     var template = document.querySelector('template[data-index="' + index + '"]').innerHTML;
     var titleTemplate = element.children[0].innerHTML;
 
+    var modalTemplate = titleTemplate + '<div class="work-modal-content">' + template + '</div>';
+
     wrapper.setAttribute('href', '#!');
     element.parentNode.insertBefore(wrapper, element);
     wrapper.appendChild(element);
