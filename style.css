@@ -1,5 +1,6 @@
 * {
   font-size: inherit;
+  box-sizing: border-box;
 }
 html {
   font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
@@ -26,5 +27,42 @@ a {
 
 .portfolio {
 display: grid;
+grid-gap: 1rem;
+grid-template-columns: repeat(auto-fit, minmax(300px, auto));
+}
+.work {
+position: relative;
+padding-bottom: 1rem;
+padding-right: 1rem;
+}
+a > .work {
+  height: 100%;
+}
+.work-title {
+  padding: 1rem;
+  position: absolute;
+  color: #fff;
+  background: rgba(0, 60, 164, 0.6) linear-gradient(to bottom right, rgba(0, 60, 164, 0.8), #00a140);
+  bottom: 0;
+  right: 0;
+  left: 1rem;
+  z-index: 1;
+}
+.work-title * {
+  margin: 0;
+}
+.work-title h3 {
+font-size: .8em;
 }
 
+.work-modal {
+
+}
+
+.work-modal h2 {
+  margin: 0;
+  font-size: 2em;
+}
+.work-modal h3 {
+  margin-top: 10px;
+}
