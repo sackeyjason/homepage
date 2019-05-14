@@ -1,9 +1,5 @@
 work:
   - client: Church of England
-    desc: "
-- Themes for a large Drupal multi-site project
-- Incorporating legacy content
-"
     pics: [ 28.png, 06.png, 07.png, 29.png ]
   - client: National Gallery of Ireland
     pics: [08.png, 09.png, 10.png, 11.png]
@@ -19,19 +15,22 @@ work:
     title: Essex Victims Gateway
     pics: [18.png, 19.png, 20.png]
   - client: Science Museum Group Journal
+    desc: "[View site](http://journal.sciencemuseum.ac.uk/)"
     pics: [21.png]
   - client: Ministry of Defence
     title: Defence and Security Accelerator
     desc: "
-- Application process implemented as Drupal form
-- Interactive cost-calculation input tables
+- Application process implemented as Drupal form\n
 - See the [case study on the Reading Room website](https://www.readingroom.com/client-stories/mod-defence-and-security-accelerator)
 "
     pics: [12.png]
   - client: "People's Health Trust"
     pics: [30.png, 31.png, 24.png]
-    desc: "Responsive HTML email template"
+    desc: "- Drupal theme\n
+- Visualisation of geographical data with Google maps and Fusion tables\n
+- Responsive HTML email template"
   - client: City and Islington College
     pics: [22.png, 23.png]
   - client: VisitEngland
     pics: [32.png]
+    desc: "- Drupal site, multi-lingual and localised to multiple regions"
