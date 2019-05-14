@@ -65,6 +65,8 @@ font-size: .8em;
 
 .work-modal-content img {
   width: 100%;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.5);
 }
 .work-modal h2 {
   margin: 0;

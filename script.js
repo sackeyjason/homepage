@@ -22,7 +22,7 @@ document.querySelectorAll('.work').forEach(element => {
 
     wrapper.addEventListener('click', () => {
 
-        modal.setContent(titleTemplate + template);
+        modal.setContent(modalTemplate);
         modal.open.call(modal);
 
     });
