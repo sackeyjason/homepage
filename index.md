@@ -3,7 +3,7 @@ layout: def2
 title: home
 ---
 
-<img src="./img/me.png" alt="" class="avatar" width="64" height="46">
+<img src="./img/me.png" alt="" class="avatar" width="64" height="64">
 
 **Frontend developer** with 7+ years of commercial experience.
 
