@@ -57,6 +57,9 @@ padding-right: 1rem;
 a > .work {
   height: 100%;
 }
+.work img {
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.5);
+}
 .work-title {
   padding: 1rem;
   position: absolute;
