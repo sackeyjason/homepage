@@ -3,6 +3,8 @@ layout: def2
 title: home
 ---
 
+<img src="./img/me.png" alt="" class="avatar" width="64" height="46">
+
 **Frontend developer** with 7+ years of commercial experience.
 
 **Blogger** - writing about technology at <a href="https://overflow.space">overflow.space</a> from a systems humanist, critically optimistic perspective.
