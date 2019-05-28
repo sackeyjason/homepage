@@ -3,7 +3,7 @@ work:
     pics: [ medex1.png, medex2.png, medex3.png ]
     desc: "- Simple React app that pulls data from themoviedb.org via its API\n
 - Using community components: react-modal and react-tabs\n
-
+\n
 <a class="btn-link" href='https://github.com/sackeyjason/moviedb-demo'>See source code on Github</a>"
   - client: Church of England
     pics: [ 28.png, 06.png, 07.png, 29.png ]
