@@ -82,8 +82,15 @@ a > .work {
 .work-detail {
   display: none;
   position: absolute;
-  margin-top: 1rem;
-  columns: 300px;
+  padding: 1rem;
+  left: 40px;
+  right: 0;
+  top: 0;
+  background: #eee;
+  animation: fade-in .5s;
+}
+@keyframes fade-in {
+  0% { opacity: 0; }
 }
 .work-detail:target {
   display: block;
@@ -91,6 +98,9 @@ a > .work {
 .work-detail-header {
   display: flex;
   justify-content: flex-end;
+}
+.work-detail-inner {
+  columns: 300px;
 }
 .work-detail img {
   width: 100%;
