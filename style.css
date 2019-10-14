@@ -85,12 +85,13 @@ a > .work {
   left: 40px;
   right: 0;
   top: 0;
-  background: #eee;
-  animation: fade-in .5s;
+  background: #111;
+  color: #FFF;
+  animation: work-in .5s;
   z-index: 2;
 }
-@keyframes fade-in {
-  0% { opacity: 0; transition: translateX(40px); }
+@keyframes work-in {
+  0% { transform: translateX(40px); }
 }
 .work-detail:target {
   display: block;
@@ -101,6 +102,7 @@ a > .work {
 }
 .work-detail-inner {
   columns: 300px;
+  margin-top: 1rem;
 }
 .work-detail img {
   width: 100%;
