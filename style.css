@@ -88,6 +88,10 @@ a > .work {
 .work-detail:target {
   display: block;
 }
+.work-detail-header {
+  display: flex;
+  justify-content: flex-end;
+}
 .work-detail img {
   width: 100%;
   margin-bottom: 1rem;
