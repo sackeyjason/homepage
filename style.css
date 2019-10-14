@@ -87,11 +87,7 @@ a > .work {
   top: 0;
   background: #111;
   color: #FFF;
-  animation: work-in .5s;
   z-index: 2;
-}
-@keyframes work-in {
-  0% { transform: translateX(40px); }
 }
 .work-detail:target {
   display: block;
