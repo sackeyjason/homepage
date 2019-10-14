@@ -44,21 +44,24 @@ small {
 }
 
 .portfolio {
-display: grid;
-padding: 1rem;
-grid-gap: 1rem;
-grid-template-columns: repeat(auto-fit, minmax(300px, auto));
+  display: grid;
+  padding: 1rem;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(300px, auto));
 }
 .work {
-position: relative;
-padding-bottom: 1rem;
-padding-right: 1rem;
+  position: relative;
+  padding-bottom: 1rem;
+  padding-right: 1rem;
 }
 a > .work {
   height: 100%;
 }
 .work img {
   box-shadow: 0 2px 5px 0 rgba(0,0,0,0.5);
+  height: 100%;
+  object-fit: cover;
+  object-position: 0 0;
 }
 .work-title {
   padding: 1rem;
@@ -76,20 +79,24 @@ a > .work {
 .work-title h3 {
   font-size: .8em;
 }
-.work-modal-content {
+.work-detail {
+  display: none;
+  position: absolute;
   margin-top: 1rem;
   columns: 300px;
 }
-
-.work-modal-content img {
+.work-detail:target {
+  display: block;
+}
+.work-detail img {
   width: 100%;
   margin-bottom: 1rem;
   box-shadow: 0 2px 5px 0 rgba(0,0,0,0.5);
 }
-.work-modal h2 {
+.work-detail h2 {
   margin: 0;
   font-size: 2em;
 }
-.work-modal h3 {
+.work-detail h3 {
   margin-top: 10px;
 }
