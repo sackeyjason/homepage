@@ -5,7 +5,7 @@ title: home
 <h1 style="padding: 0 1rem;">Portfolio</h1>
 <article class="portfolio">
 {% for x in site.data.portfolio.work %}
-  <a class="work" href="w{{ forloop.index }}">
+  <a class="work" href="#w{{ forloop.index }}">
     <div class="work-title">
       {% if x.title %}
         <h2>{{ x.title }}</h2>
