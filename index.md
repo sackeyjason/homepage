@@ -5,13 +5,16 @@ title: home
 
 <img src="./img/me.png" alt="" class="avatar" width="64" height="64">
 
-**Frontend developer** with 7+ years of commercial experience.
+**Frontend developer** - 8 years of commercial experience building, designing, integrating, styling, and beguiling on the Web.
 
-**Blogger** - writing about technology at <a href="https://overflow.space">overflow.space</a> from a systems humanist, critically optimistic perspective.
+**Blogger** - writing about technology --
+<a href="https://overflow.space">overflow.space</a>;
+<a href="https://operatingspace.net">operatingspace.net</a>
+-- from a systems humanist, critically optimistic perspective.
 
-I'm into beautiful design, clean code, JavaScript, the cutting-edge and the history of technology, science fiction, and amateur game development. Based in London, UK.
+I'm into beautiful design, clean code, JavaScript, the cutting-edge and the history of technology, science fiction, and VR and game development. Based in London, UK.
 
-**jasonsackey@yahoo.co.uk**
+**hi@jasonsackey.com**
 
 <ul class="links">
        <li><a href="https://twitter.com/jasonksackey">
