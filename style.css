@@ -82,12 +82,13 @@ a > .work {
   display: none;
   position: absolute;
   padding: 1rem;
-  left: 40px;
+  left:  0;
   right: 0;
-  top: 0;
   background: #111;
   color: #FFF;
   z-index: 2;
+  max-width: 90%;
+  margin: 2rem auto 0;
 }
 .work-detail:target {
   display: block;
