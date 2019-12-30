@@ -7,13 +7,13 @@ title: home
 
 I'm into beautiful design, clean code, JavaScript, the cutting-edge, and the history of technology, science fiction, and VR and game development. Based in London, UK.
 
-**Web development** - building, designing, integrating, styling, and beguiling on the Web.
+I do:
 
-**Writing** - blogging about technology --
+- **Web development** - building, designing, integrating, styling, and beguiling on the Web.
+- **Writing** - blogging about technology --
 <a href="https://overflow.space">overflow.space</a>;
 <a href="https://operatingspace.net">operatingspace.net</a>
 -- from a critically optimistic systems humanist perspective.
-
 
 <b>[✉️ hi@jasonsackey.com](mailto:hi@jasonsackey.com)</b>
 
