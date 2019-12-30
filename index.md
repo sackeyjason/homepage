@@ -17,6 +17,8 @@ I do:
 
 <b>[✉️ hi@jasonsackey.com](mailto:hi@jasonsackey.com)</b>
 
+- [🐦 <span class="red">twitter.com</span>/jasonksackey](https://twitter.com/jasonksackey)
+
 <ul class="links">
   <li><a href="https://twitter.com/jasonksackey">
     🐦 <span class="red">twitter.com</span>/jasonksackey
