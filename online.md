@@ -29,6 +29,7 @@ layout: def2
 </td>
 <td>
 <ul>
+<li><a href="https://mentalconflux.com/">Mentalconflux - Misc. content home</a></li>
 <li><a href="https://mentalconflux.wordpress.com/">WordPress.com posts</a></li>
 <li><a href="http://mentalconflux.com/archive">Various topics on my old archived site</a></li>
 <li><a href="https://twitter.com/mentalconflux">Twitter: @mentalconflux</a></li>
