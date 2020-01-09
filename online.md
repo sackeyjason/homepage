@@ -22,6 +22,9 @@ layout: def2
 <li><a href="http://operatingspace.net">operatingspace.net</a> [down]</li>
 <li><a href="https://medium.com/@jason.sackey">Medium blog</a></li>
 <li><a href="https://mobile.twitter.com/jasonksackey">Twitter: @jasonksackey</a></li>
+<li><a href="https://github.com/sackeyjason">🐙 <span class="red">github.com</span>/sackeyjason</a></li>
+<li><a href="https://www.linkedin.com/in/jason-sackey-8998aa5a/">🏢 <span class="red">linkedin.com/in/</span>jason-sackey-8998aa5a</a></li>
+<li><a href="http://codepen.io/jasonsackey">⚙️ <span class="red">codepen.io</span>/jasonsackey</a></li>
 </ul>
 </td>
 <td>
@@ -36,7 +39,7 @@ layout: def2
 <li><a href="https://twitter.com/gamingconflux">Twitter: @gamingconflux</a></li>
 </ul>
 </li>
-  <li><a href="https://sackeyjason.github.io/london-rationalish-readings/">London Rationalish readings</a>
+<li><a href="https://sackeyjason.github.io/london-rationalish-readings/">London Rationalish readings</a></li>
 </ul>
 </td>
 </tr>
