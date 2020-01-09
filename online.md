@@ -4,6 +4,10 @@ layout: def2
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Website<br>noun<br>1. a machine for telling the world who you are and what you believe in.</p>&mdash; Jason Sackey (@jasonksackey) <a href="https://twitter.com/jasonksackey/status/1214977623840960512?ref_src=twsrc%5Etfw">January 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<br>
+<br>
+<br>
+
 <table width="100%">
 <tbody>
 <tr>
@@ -32,6 +36,7 @@ layout: def2
 <li><a href="https://twitter.com/gamingconflux">Twitter: @gamingconflux</a></li>
 </ul>
 </li>
+  <li><a href="https://sackeyjason.github.io/london-rationalish-readings/">London Rationalish readings</a>
 </ul>
 </td>
 </tr>
