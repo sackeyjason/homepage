@@ -1,34 +1,38 @@
 ---
 layout: def2
 title: home
-skills: JavaScript, AWS, Serverless, React, Angular, Sass
 ---
 
 <img src="./img/me.png" alt="" class="avatar" width="64" height="auto">
 
 Computer programmer. Into solving problems with simple design and clean code. Interested in the cutting-edge of tech, the history of computing, science fiction, VR, and game development. Based in London.
 
-## Web development
+## Software development
 
-Building, designing, integrating, styling, and beguiling on the Web since 2012. Websites, apps, frontend, backend, [sometimes a game](https://sackeyjason.github.io/bankoso/).
+Building on the Web since 2012. Sites, apps, frontends, backends, games.
 
-## Blogging
+### Games
 
-[Writing about technology](https://overflow.space) from a critically optimistic systems humanist perspective.
+### [Bankoso](https://github.com/sackeyjason/bankoso/)
 
-- <b>[✉️ hi@jasonsackey.com](mailto:hi@jasonsackey.com)</b>
-- [🐦 <span class="red">twitter.com</span>/jasonksackey][cp]
+Sokoban-like puzzle game
+
+![Bankoso screenshots](https://sackeyjason.github.io/bankoso/screenshots.png)
+
+## Writing
+
+[Blogging about technology](https://overflow.space) from a critically optimistic systems humanist perspective.
+
+## Connect
+
+- <b>[✉️ Email me](mailto:hi@jasonsackey.com)</b> at hi@jasonsackey.com
+- [🐦 <span class="red">twitter.com</span>/jasonksackey][tw]
 - [🐙 <span class="red">github.com</span>/sackeyjason][gh]
 - [🚀 Operating Space forum](https://operatingspace.net)
-
-<!--
-- [🏢 <span class="red">linkedin.com/in/</span>jason-sackey-8998aa5a][li]
-- [⚙️ <span class="red">codepen.io</span>/jasonsackey][cp]
--->
+- [🏢 LinkedIn][li]
 
 [tw]: https://twitter.com/jasonksackey
 [gh]: https://github.com/sackeyjason
 [li]: https://www.linkedin.com/in/jason-sackey-8998aa5a/
-[cp]: http://codepen.io/jasonsackey
 
-<small>2020: Year of the whale 🐳</small>
+<small>2020: Year of the Magnet 🧲</small>
