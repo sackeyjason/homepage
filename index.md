@@ -29,10 +29,9 @@ Sokoban-like puzzle game
 - [🐦 <span class="red">twitter.com</span>/jasonksackey][tw]
 - [🐙 <span class="red">github.com</span>/sackeyjason][gh]
 - [🚀 Operating Space forum](https://operatingspace.net)
-- [🏢 LinkedIn][li]
+- [🏢 LinkedIn](https://www.linkedin.com/in/jason-sackey-8998aa5a/)
 
 [tw]: https://twitter.com/jasonksackey
 [gh]: https://github.com/sackeyjason
-[li]: https://www.linkedin.com/in/jason-sackey-8998aa5a/
 
 <small>2020: Year of the Magnet 🧲</small>
