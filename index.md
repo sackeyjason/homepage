@@ -19,6 +19,12 @@ Sokoban-like puzzle game
 
 ![Bankoso screenshots](https://sackeyjason.github.io/bankoso/screenshots.png)
 
+### Orbital (WIP)
+
+Build a lovely space habitat in this tetromino-based action-puzzle game.
+
+![Bankoso screenshots](https://sackeyjason.github.io/homepage/img/orbital-screenshots.png)
+
 ## Writing
 
 [Blogging about technology](https://overflow.space) from a critically optimistic systems humanist perspective.
