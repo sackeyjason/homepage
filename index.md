@@ -13,17 +13,18 @@ Building on the Web since 2012. Sites, apps, frontends, backends, games.
 
 ### Games
 
-### [Bankoso](https://github.com/sackeyjason/bankoso/)
-
-Sokoban-like puzzle game
-
-![Bankoso screenshots](https://sackeyjason.github.io/bankoso/screenshots.png)
-
-### Orbital (WIP)
-
-Build a lovely space habitat in this tetromino-based action-puzzle game.
-
-![Bankoso screenshots](https://sackeyjason.github.io/homepage/img/orbital-screenshots.png)
+<div class="games">
+  <div class="game">
+    <h3><a href="https://github.com/sackeyjason/bankoso/">Bankoso</a></h3>
+    <p>Sokoban-like puzzle game</p>
+    <p><img src="https://sackeyjason.github.io/bankoso/screenshots.png" alt="Bankoso screenshots"></p>
+  </div>
+  <div class="game">
+    <h3>Orbital (WIP)</h3>
+    <p>Build a lovely space habitat in this tetromino-based action-puzzle game.</p>
+    <p><img src="https://sackeyjason.github.io/homepage/img/orbital-screenshots.png" alt="Orbital screenshots"></p>
+  </div>
+</div>
 
 ## Writing
 
