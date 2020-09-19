@@ -11,7 +11,7 @@ Computer programmer. Into solving problems with simple design and clean code. In
 
 Building on the Web since 2012. Sites, apps, frontends, backends, games.
 
-### Games
+### 🕹️ Games
 
 <div class="games">
   <div class="game">
@@ -26,7 +26,7 @@ Building on the Web since 2012. Sites, apps, frontends, backends, games.
   </div>
 </div>
 
-## Writing
+## 📝 Writing
 
 [Blogging about technology](https://overflow.space) from a critically optimistic systems humanist perspective.
 
