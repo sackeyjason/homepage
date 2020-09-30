@@ -32,7 +32,7 @@ Building on the Web since 2012. Sites, apps, frontends, backends, games.
 
 ## Connect
 
-- <b>[✉️ Email me](mailto:hi@jasonsackey.com)</b> at hi@jasonsackey.com
+- ✉️ hi@jasonsackey.com
 - [🐦 <span class="red">twitter.com</span>/jasonksackey][tw]
 - [🐙 <span class="red">github.com</span>/sackeyjason][gh]
 - [🚀 Operating Space forum](https://operatingspace.net)
