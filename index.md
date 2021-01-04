@@ -7,7 +7,7 @@ title: home
 
 Computer programmer. Into solving problems with simple design and clean code. Interested in the cutting-edge of tech, the history of computing, science fiction, VR, and game development. Based in London.
 
-## Software development
+## 💻 Software development
 
 Building on the Web since 2012. Sites, apps, frontends, backends, games.
 
@@ -30,7 +30,7 @@ Building on the Web since 2012. Sites, apps, frontends, backends, games.
 
 [Blogging about technology](https://overflow.space) from a critically optimistic systems humanist perspective.
 
-## Connect
+## 🔗 Links
 
 - ✉️ hi@jasonsackey.com
 - [🐦 <span class="red">twitter.com</span>/jasonksackey][tw]
@@ -41,4 +41,4 @@ Building on the Web since 2012. Sites, apps, frontends, backends, games.
 [tw]: https://twitter.com/jasonksackey
 [gh]: https://github.com/sackeyjason
 
-<small>2020: Year of the Magnet 🧲</small>
+<small>2021: Year of the Kite 🪁</small>
