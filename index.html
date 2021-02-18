@@ -4,61 +4,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Jason Sackey, developer</title>
-    <style>
-      * {
-        box-sizing: border-box;
-        margin: 0;
-        padding: 0;
-      }
-      * + * {
-        margin-top: 1rem;
-      }
-      html {
-        background: #ffa500;
-        font: 16px/1.4 trebuchet ms, sans-serif;
-        --br: 5px;
-      }
-      body {
-        margin: 0 1rem;
-      }
-      img {
-        max-width: 100%;
-        vertical-align: middle;
-      }
-
-      .frame {
-        border: solid 2px;
-        border-radius: var(--br);
-        background-color: rgba(255, 255, 255, 0.35);
-        padding: 0 1rem 1rem;
-      }
-      .frame > h2,
-      .frame > h3 {
-        margin-left: -1rem;
-        margin-right: -1rem;
-        border-bottom: solid 2px;
-      }
-      .br {
-        border-radius: var(--br);
-      }
-      .row {
-        display: flex;
-        flex-wrap: wrap;
-      }
-      .row > * + * {
-        margin-left: 1rem;
-      }
-      ul[class] {
-        list-style: none;
-      }
-      .menu li {
-        display: inline;
-        margin-left: 2rem;
-      }
-      .menu a {
-        color: inherit;
-      }
-    </style>
+    <link rel="stylesheet" href="/style.css" />
+    <style></style>
   </head>
   <body>
     <header class="row">
@@ -72,6 +19,12 @@
           >
         </li>
         <li><a href="https://jasonsackey.wordpress.com/">Blog</a></li>
+        <li>
+          <details>
+            <summary>Email</summary>
+            <div class="frame">hi@jasonsackey.com</div>
+          </details>
+        </li>
       </ul>
     </header>
 
@@ -90,47 +43,61 @@
         </big>
       </p>
     </div>
-
-    <div class="frame" style="max-width: calc(100vw - 8rem); margin: 1rem auto">
-      <h2>💻 Software development</h2>
-      <p>
-        Building on the Web since 2012. Sites, apps, frontends, backends, games.
-      </p>
-      <div class="row" style="margin-right: -3rem; align-items: flex-start">
-        <div class="frame">
-          <h3>🍊 Work</h3>
-          React, Angular, Backbone, jQuery, Sass
-          <br />
-          [Section WIP]
-        </div>
-        <div class="frame" style="flex-basis: 800px">
-          <h3>🕹️ Games</h3>
-          <div class="games row">
-            <div class="game" style="flex-basis: 50%">
-              <h3>
-                <a href="https://github.com/sackeyjason/bankoso/">Bankoso</a>
-              </h3>
-              <p>Sokoban-like puzzle game</p>
-              <p>
-                <img
-                  src="https://sackeyjason.github.io/bankoso/screenshots.png"
-                  alt="Bankoso screenshots"
-                />
-              </p>
+    <div class="x">
+      <div
+        class="frame"
+        style="max-width: calc(100vw - 8rem); margin: 1rem auto"
+      >
+        <h2>💻 Software development</h2>
+        <p>
+          Building on the Web since 2012: sites, apps, frontends, backends,
+          games...
+        </p>
+        <div class="row">
+          <div class="frame">
+            <h3>🕹️ Games</h3>
+            <div class="games row">
+              <div class="game" style="flex-basis: 50%">
+                <h3>
+                  <a href="https://github.com/sackeyjason/bankoso/">Bankoso</a>
+                </h3>
+                <p>
+                  Sokoban-like puzzle game. Push blocks around. Unlike in the
+                  original, here you can shove multiple blocks simultaneously.
+                </p>
+                <p>
+                  <img
+                    src="/img/ban-screenshots.png"
+                    alt="Bankoso screenshots"
+                  />
+                </p>
+              </div>
+              <div class="game" style="flex-basis: calc(50% - 1rem)">
+                <h3>
+                  <a href="https://sackeyjason.github.io/radial-matrix/"
+                    >Orbital (WIP)</a
+                  >
+                </h3>
+                <p>
+                  Build a lovely space habitat in this tetromino-based
+                  action-puzzle game.
+                </p>
+                <p>
+                  <img
+                    src="/img/orbital-screenshots2.png"
+                    alt="Orbital screenshots"
+                  />
+                </p>
+              </div>
             </div>
-            <div class="game" style="flex-basis: calc(50% - 1rem)">
-              <h3>Orbital (WIP)</h3>
-              <p>
-                Build a lovely space habitat in this tetromino-based
-                action-puzzle game.
-              </p>
-              <p>
-                <img
-                  src="https://sackeyjason.github.io/homepage/img/orbital-screenshots.png"
-                  alt="Orbital screenshots"
-                />
-              </p>
-            </div>
+          </div>
+          <div class="frame">
+            <h3>📂 Work</h3>
+            <p>Web development with HTML, CSS, and JS</p>
+            <p>Also: React, Angular, Backbone, jQuery, Sass</p>
+            <p>
+              Chat apps, CMSes, project management tools, ETL things, CRUD apps,
+            </p>
           </div>
         </div>
       </div>
